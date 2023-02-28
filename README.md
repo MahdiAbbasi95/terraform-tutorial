@@ -23,6 +23,7 @@ I have written some examples for each concept in Terraform:
 - [provisioner-local-exec](provisioner-local-exec)
 - [provisioner-remote-exec](provisioner-remote-exec)
 - [remote-backend-s3](remote-backend-s3)
+- [resource](resource)
 - [splat-expressions](splat-expressions)
 - [template-strings-for](template-strings-for)
 - [template-strings-if-else](template-strings-if-else)
