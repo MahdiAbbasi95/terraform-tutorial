@@ -1,0 +1,7 @@
+instance_type    = "t2.micro"
+environment      = "dev"
+source_file      = "file.txt"
+destination_file = "/root/file.txt"
+public_key       = ""
+private_key      = ""
+username         = "root"

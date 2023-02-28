@@ -1,0 +1,5 @@
+instance_type = "t2.micro"
+environment   = "dev"
+public_key    = ""
+private_key   = ""
+username      = "root"
