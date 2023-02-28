@@ -30,3 +30,6 @@ override.tf.json
 
 # Ignore .terraform.local.hcl
 .terraform.lock.hcl
+
+# Ignore .DS_Store
+.DS_Store 
